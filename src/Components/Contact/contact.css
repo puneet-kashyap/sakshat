@@ -1,7 +1,7 @@
 :root {
   --primary-color: #4051b4;
   --secondary-color: #9c27b0;
-  --img-bot:url("http://cdn.za.vc/covers/71327.jpg");
+  --img-bot:url("https://cdn3.iconfinder.com/data/icons/musician-and-rock-star/303/musician-rock-star-005-512.png");
    --img-user: url("http://icons.iconarchive.com/icons/mirella-gabriele/valentine/256/Music-Heart-icon.png");
 }
 .container {
@@ -22,4 +22,9 @@
 
 .container header h1 {
   font-size: 2.0em;
+}
+
+.group img {
+  border-radius: 0;
+  /* To make the bot image square */
 }

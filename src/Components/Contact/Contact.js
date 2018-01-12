@@ -17,10 +17,11 @@ const Contact = (props) => {
       <div className="col-md-offset-3 col-md-6 text-center" style={{'padding':'25px'}}>
           <Card raised className="img-responsive">
             <Typography type="display3" component="h1" color="primary" style={{'paddingTop':'25px'}}>
-              {props.owner.owner1.name}
+              {/* {props.owner.owner1.name} */}
+              Sakshat
             </Typography>
             <CardHeader
-              title="Singer, Musician, and Performer."
+              title="Young Indian Drummer."
               color="primary"
               style={{'paddingTop':'5px'}}
             />
@@ -62,7 +63,7 @@ const Contact = (props) => {
         <CardMedia
           style={{'padding':'10px','minHeight':'500px'}}
           component='iframe'
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38541.238578956705!2d75.37513554427363!3d31.37014996739419!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a4854dcaaea2b%3A0x613bdd0931c8e3c9!2sKapurthala%2C+Punjab%2C+India!5e0!3m2!1sen!2sca!4v1508520507989"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d283748.7611334782!2d76.94178736453739!3d28.634952305312577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi%2C+India!5e0!3m2!1sen!2sca!4v1515789860423"
           title="Sakshat Map"
           className="embed-responsive-item"
           frameBorder="0"
