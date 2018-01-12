@@ -1,0 +1,18 @@
+{
+  "owners" : {
+    "owner1" : {
+      "address1" : "Delhi,",
+      "address2" : "India",
+      "email" : "info@sakshat.com",
+      "name" : "Sakshat Kumar",
+      "phone" : "+91 - 9811711115"
+    },
+    "owner2" : {
+      "address1" : "Delhi,",
+      "address2" : "India",
+      "email" : "sandy@sakshat.com",
+      "name" : "Sandeep Kumar",
+      "phone" : "+91 - 9811711115"
+    }
+  }
+}

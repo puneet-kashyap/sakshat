@@ -1,0 +1,6 @@
+a.hyper-link:link {
+    color: bisque;
+}
+a.hyper-link:active {
+    color: white;
+}
