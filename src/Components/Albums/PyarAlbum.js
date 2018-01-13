@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Youtube from '../Utils/youtube';
-import Card, { CardActions, CardHeader, CardContent } from 'material-ui/Card';
+import Card, { CardHeader, CardContent } from 'material-ui/Card';
 import Typography from 'material-ui/Typography';
 // import Button from 'material-ui/Button';
 
