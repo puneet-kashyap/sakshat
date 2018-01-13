@@ -25,10 +25,10 @@ const Contact = (props) => {
               color="primary"
               style={{'paddingTop':'5px'}}
             />
-            {/* <img src={require('../../Images/profile/profile2.jpg')}
+            <img src={require('../../Images/slider/Sakshat_cover.jpg')}
               className="img-responsive center-block"
               style={{'maxHeight':window.innerHeight/2}}
-              alt={props.owner.owner1.name}/> */}
+              alt={props.owner.owner1.name}/>
             <CardContent>
               <Typography type="display1" component="h4" color="secondary">
                   {props.owner.owner1.address1}

@@ -39,7 +39,7 @@ class Header extends React.Component {
       <AppBar position="static">
         <Toolbar  style={{'paddingRight':'0px'}}>
           <a href="/">
-            {/* <img src={require('../../Images/logo1.png')} className="img-responsive" style={{'padding':'10px'}} alt="Andy Nagpal Realtor" /> */}
+            <img src={require('../../Images/Sakshat_logo.png')} className="img-responsive" style={{'padding':'10px'}} alt="Sakshat logo" />
           </a>
           <Typography type="title" color="inherit" style={{'flex':'1'}} >
             <Hidden smDown>

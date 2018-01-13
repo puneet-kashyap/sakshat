@@ -12,11 +12,19 @@ const youtubeVideos = [
   "https://www.youtube.com/embed/prQfQpWquH4",
   "https://www.youtube.com/embed/GdtYapoF3gA",
 
+  "https://www.youtube.com/embed/RqEjeFUaltc",
+  "https://www.youtube.com/embed/PiQkxQSg9Bg",
+  "https://www.youtube.com/embed/0b1KLG3eF9E",
+  "https://www.youtube.com/embed/oXFv3HZmFGI",
+  "https://www.youtube.com/embed/SOxY84kNMMI",
+  "https://www.youtube.com/embed/55i4UsgCpRQ",
+  "https://www.youtube.com/embed/DXBZhzdNl8A",
+  "https://www.youtube.com/embed/hkpfWjlBucY",
   "https://www.youtube.com/embed/kg9rrqhAGp4",
   "https://www.youtube.com/embed/OF-Yw3MXdj0",
   "https://www.youtube.com/embed/kEqllwLB4MQ",
   "https://www.youtube.com/embed/RvS9iPnjxho",
-  "https://www.youtube.com/embed/JHZvCRLdDGE",
+  "https://www.youtube.com/embed/JHZvCRLdDGE"
 ]
 
 const Gallery  = () => {
