@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Youtube from '../Utils/youtube';
 import Card, { CardActions, CardHeader, CardContent } from 'material-ui/Card';
 import Typography from 'material-ui/Typography';
-import Button from 'material-ui/Button';
+// import Button from 'material-ui/Button';
 
 class PyarAlbum extends Component {
   constructor(props){
@@ -40,7 +40,7 @@ class PyarAlbum extends Component {
             Rocking performance of Sakshat.
           </Typography>
         </CardContent>
-        <CardActions style={{"justifyContent":"space-around"}}>
+        {/* <CardActions style={{"justifyContent":"space-around"}}>
           <Button dense
             color="primary"
             href="https://www.youtube.com/watch?v=3ZHsY3fZuo8&feature=youtu.be"
@@ -48,7 +48,7 @@ class PyarAlbum extends Component {
           >
             Share
           </Button>
-        </CardActions>
+        </CardActions> */}
       </Card>
     </div>
   );

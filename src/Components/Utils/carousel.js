@@ -3,11 +3,10 @@ import Grid from 'material-ui/Grid';
 
 const sliderDesktop = [
   require('../../Images/slider/Sakshat_cover.jpg'),
-  require('../../Images/slider/Sakshat_cover.jpg'),
+  // require('../../Images/slider/Sakshat_profile.jpg'),
 ]
 
 const sliderMobile = [
-  require('../../Images/slider/Sakshat_cover.jpg'),
   require('../../Images/slider/Sakshat_cover.jpg'),
 ]
 
